@@ -9,3 +9,8 @@ body {
     display: grid;
     place-items: center;
 }
+
+.banner {
+    background: white;
+    padding: 4rem 0;
+}
