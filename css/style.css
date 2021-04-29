@@ -37,3 +37,10 @@ body {
     width: 90vw;
     max-width: 620px;
 }
+
+.modal-btn {
+    margin-top: 2rem;
+    background: cornflowerblue;
+    border-color: cornflowerblue;
+    color: white;
+}
