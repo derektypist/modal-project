@@ -80,3 +80,19 @@ body {
     place-items: center;
     position: relative;
 }
+
+.close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2rem;
+    background: transparent;
+    border-color: transparent;
+    color: hsl(360,67%,44%);
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    color: hsl(360,71%,66%);
+    transform: scale(1.3);
+}
