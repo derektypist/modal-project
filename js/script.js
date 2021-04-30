@@ -10,10 +10,10 @@ const closeBtn = document.querySelector('.close-btn');
     When user clicks close-btn remove .open-modal from modal-overlay
 */
 
-modalBtn = document.addEventListener('click', function() {
+modalBtn.addEventListener('click', function() {
     modal.classList.add('open-modal');
 });
 
-closeBtn = document.addEventListener('click', function() {
+closeBtn.addEventListener('click', function() {
     modal.classList.remove('open-modal');
 });
