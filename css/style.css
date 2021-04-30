@@ -24,6 +24,7 @@ body {
 .hero {
     min-height: 100vh;
     display: grid;
+    background: lavender;
     place-items: center;
 }
 
