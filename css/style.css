@@ -40,7 +40,12 @@ body {
 
 .modal-btn {
     margin-top: 2rem;
-    background: cornflowerblue;
-    border-color: cornflowerblue;
+    background: rgb(73,166,233);
+    border-color: rgb(73,166,233);
     color: white;
+}
+
+.modal-btn:hover {
+    background: transparent;
+    color: rgb(73,166,233);
 }
