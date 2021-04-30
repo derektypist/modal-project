@@ -24,7 +24,7 @@ body {
 .hero {
     min-height: 100vh;
     display: grid;
-    background: url("images/hero.JPG");
+    background-image: url("images/hero.JPG");
     place-items: center;
 }
 
