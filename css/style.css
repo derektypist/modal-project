@@ -23,9 +23,9 @@ body {
 /* Modal */
 .hero {
     min-height: 100vh;
+    background: url("images/hero.jpg") center/cover no-repeat;
     display: grid;
     place-items: center;
-    background: url(images/hero.jpg) center/cover no-repeat;
 }
 
 .banner {
